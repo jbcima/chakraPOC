@@ -10,21 +10,21 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{color.neutrals.white}",
+        "value": "{color.white}",
         "type": "color"
       },
       "on-accent": {
-        "value": "{color.neutrals.white}",
+        "value": "{color.white}",
         "type": "color"
       }
     },
     "bg": {
       "canvas": {
-        "value": "{color.NeutralGray.50}",
+        "value": "{color.gray.50}",
         "type": "color"
       },
       "surface": {
-        "value": "{color.neutrals.white}",
+        "value": "{color.white}",
         "type": "color"
       }
     },
@@ -94,11 +94,11 @@
     },
     "warning": {
       "emphasised": {
-        "value": "{color.amber.500}",
+        "value": "{color.orange.500}",
         "type": "color"
       },
       "fg": {
-        "value": "{color.amber.400}",
+        "value": "{color.orange.400}",
         "type": "color"
       }
     },
@@ -114,11 +114,11 @@
     },
     "success": {
       "emphasised": {
-        "value": "{color.emerald.500}",
+        "value": "{color.green.500}",
         "type": "color"
       },
       "fg": {
-        "value": "{color.emerald.400}",
+        "value": "{color.green.400}",
         "type": "color"
       }
     }
